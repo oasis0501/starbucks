@@ -843,12 +843,12 @@ footer .info {
   margin-top: 30px;
   text-align: center;
 }
-footer .info .span {
+footer .info span {
   margin-right: 20px;
   color: #999;
   font-size: 12px;
 }
-footer .info .span:last-child {
+footer .info span:last-child {
   margin-right: 0;
 }
 footer .copyright {
